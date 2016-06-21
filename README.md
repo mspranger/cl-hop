@@ -1,7 +1,7 @@
 cl-hop
 ================
 
-HOP planner implementation in lisp (based on py-hop)
+HOP planner implementation in lisp (based on pyhop)
 
 see https://bitbucket.org/dananau/pyhop
 
